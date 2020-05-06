@@ -4,4 +4,4 @@ Personal Website
 Technologies Used
 - HTML
 - CSS
-- Git
+- Git (Verison Control)
