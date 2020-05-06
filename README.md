@@ -5,3 +5,5 @@ Technologies Used
 - HTML
 - CSS
 - Git (Verison Control)
+- Linux (CentOS)
+- Apache
