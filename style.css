@@ -11,6 +11,14 @@
 {
     background-color: rgba(24, 95, 177, 0.781) !important;
 }
+hr
+{
+    background-color:rgba(24, 95, 177, 0.781) !important
+}
+.hiddentemp
+{
+    visibility: hidden;
+}
 
 /*Social Media Icons*/
 .fa-github
