@@ -1,25 +1,8 @@
 /*Style for personal website*/
-.whitefont
+footer
 {
-    color: white !important;
+    padding-top: 15px;
 }
-.jumbotron
-{
-    background-size: 100% 100%;
-}
-.jbtdark
-{
-    background-color: rgba(24, 95, 177, 0.781) !important;
-}
-hr
-{
-    background-color:rgba(24, 95, 177, 0.781) !important
-}
-.hiddentemp
-{
-    visibility: hidden;
-}
-
 /*Social Media Icons*/
 .fa-github
 {
