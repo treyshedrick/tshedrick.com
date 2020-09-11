@@ -8,24 +8,28 @@ footer
     height: 100% !important;
     padding: 3px;
 }
+.row
+{
+    padding: 10px !important;
+}
 /*Social Media Icons*/
 .fa-github
 {
     text-decoration: none !important;
     color: black !important;
-    font-size: 30px !important;
+    font-size: 40px !important;
 }
 .fa-linkedin
 {
     text-decoration: none !important;
     color: #0e76a8 !important;
-    font-size: 30px !important;
+    font-size: 40px !important;
 }
 .fa-envelope
 {
     text-decoration: none !important;
     color: #D44638 !important;
-    font-size: 25px !important;
+    font-size: 40px !important;
 }
 .fa-github:hover,.fa-linkedin:hover,.fa-envelope:hover
 {
