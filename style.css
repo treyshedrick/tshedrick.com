@@ -3,6 +3,11 @@ footer
 {
     padding-top: 15px;
 }
+.footerstyle
+{
+    padding: 1px !important;
+    color: white !important;
+}
 .card
 {
     height: 100% !important;
@@ -10,26 +15,35 @@ footer
 }
 .row
 {
-    padding: 10px !important;
+    padding: 10px;
 }
 /*Social Media Icons*/
 .fa-github
 {
     text-decoration: none !important;
-    color: black !important;
+    color: white !important;
     font-size: 40px !important;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 15px;
 }
 .fa-linkedin
 {
     text-decoration: none !important;
     color: #0e76a8 !important;
     font-size: 40px !important;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 15px;
 }
 .fa-envelope
 {
     text-decoration: none !important;
     color: #D44638 !important;
     font-size: 37px !important;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 15px;
 }
 .fa-github:hover,.fa-linkedin:hover,.fa-envelope:hover
 {
