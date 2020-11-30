@@ -7,3 +7,4 @@ Technologies Used
 - Git (Verison Control)
 - Linux (CentOS)
 - Apache
+- AWS Lightsail
