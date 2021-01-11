@@ -1,5 +1,5 @@
 # tshedrick.com
-Personal Website
+[Personal Website](https://tshedrick.com/)
 
 Technologies Used
 - HTML
