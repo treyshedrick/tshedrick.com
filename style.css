@@ -16,9 +16,19 @@
     overflow: hidden;
     z-index: 95;
 }
-.col-12
+i
 {
-    font-size: 100px;
+    color:rgb(40, 49, 63)
+}
+i:hover
+{
+    opacity: .5;
+    color: rgb(66, 164, 255);
+    font-size: 90px;
+}
+.skillicons
+{
+    font-size: 90px;
 }
 .SideHeader
 {
