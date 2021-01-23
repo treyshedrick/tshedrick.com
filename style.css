@@ -1,51 +1,36 @@
 /*Style for personal website*/
-footer
+.container
 {
-    padding-top: 15px;
+    margin-left: 40% !important;
+    width: 50% !important;
+    background-color: white;
+    min-height: 100vh;
+    opacity: .8;
+    z-index: 100;
+    padding-top: 50px;
 }
-.footerstyle
+.container-fluid
 {
-    padding: 1px !important;
-    color: white !important;
+    background: linear-gradient(to right top, rgb(66, 164, 255),rgb(40, 49, 63));
+    min-height: 100vh;
+    overflow: hidden;
+    z-index: 95;
 }
-.card
+.col-12
 {
-    height: 100% !important;
-    padding: 3px;
+    font-size: 100px;
 }
-.row
+.SideHeader
 {
-    padding: 10px;
+    text-align: center;
+    position: fixed;
+    top: 10%;
+    left: 10%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: rgb(214, 214, 214);
 }
-/*Social Media Icons*/
-.fa-github
+.description
 {
-    text-decoration: none !important;
-    color: white !important;
-    font-size: 40px !important;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-bottom: 15px;
-}
-.fa-linkedin
-{
-    text-decoration: none !important;
-    color: #0e76a8 !important;
-    font-size: 40px !important;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-bottom: 15px;
-}
-.fa-envelope
-{
-    text-decoration: none !important;
-    color: #D44638 !important;
-    font-size: 37px !important;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-bottom: 15px;
-}
-.fa-github:hover,.fa-linkedin:hover,.fa-envelope:hover
-{
-    opacity: .5;
+    font-size: 12px;
 }
