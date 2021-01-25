@@ -1,4 +1,8 @@
 /*Style for personal website*/
+html,body
+{
+    overscroll-behavior: none;
+}
 .container
 {
     margin-left: 40% !important;
@@ -12,7 +16,6 @@
 {
     background: linear-gradient(to right top, rgb(66, 164, 255),rgb(40, 49, 63));
     min-height: 100vh;
-    overflow: hidden;
     z-index: 95;
 }
 h5
@@ -75,7 +78,7 @@ i:hover
 }
 .name
 {
-    font-size: 20px;
+    font-size: 30px;
 }
 .self-icon
 {
@@ -129,7 +132,6 @@ i:hover
     .container-fluid
     {
         background: white !important;
-        text-align: center
     }
     .SideHeader
     {
@@ -143,12 +145,13 @@ i:hover
         min-width: 100%;
         display: inline;
         padding-top: 5px;
+        text-align: center
     }
     .self-icon
     {
         width: 50px;
         height: 50px;
-        margin-left: -20px !important;
+        margin-left: -30px !important;
     }
     .name
     {
@@ -156,9 +159,11 @@ i:hover
     }
     .description
     {
-        font-size: 12px;
+        font-size: 10px;
         text-align: center;
-        padding:3px;
+        margin-left: 20px;
+        margin-top: -15px;
+        padding-bottom: 5px;
     }
     .fa-github,.fa-linkedin, .fa-envelope, .fa-file
     {
